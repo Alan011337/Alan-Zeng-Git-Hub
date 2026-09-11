@@ -23,6 +23,15 @@ If you only have a few minutes, inspect these three artifacts:
 
 The intended signal is **technical fluency that is inspectable enough for product work close to AI and software execution**, not senior engineering depth.
 
+## Questions this portfolio is designed to help answer
+
+- Can I reason about APIs, persistence, authentication, asynchronous messaging, storage, and data flow beyond surface-level product terminology?
+- Do I understand AI-agent workflows as systems with tools, boundaries, failure modes, and orchestration — not only prompting?
+- Can I connect technical constraints back to product decisions, requirements, QA, and user-facing risk?
+- Do I distinguish learning evidence from production-scale engineering ownership?
+
+If the hiring question is primarily about **product ownership, user discovery, prioritization, requirements, or AI-native product design**, the stronger evidence is the Haven portfolio rather than GitHub alone.
+
 ## What I am working on
 
 ### Haven — AI-native Relationship Product

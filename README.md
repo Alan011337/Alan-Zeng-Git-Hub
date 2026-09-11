@@ -32,6 +32,8 @@ I am continuously strengthening the technical fluency needed to work effectively
 
 These repositories are **learning and implementation evidence**, not claims of production-scale engineering expertise.
 
+→ [View the curated technical project map](./PROJECTS.md)
+
 ## Product & problem-solving evidence
 
 Beyond software learning, my work includes:

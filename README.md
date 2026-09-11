@@ -16,14 +16,19 @@ I currently work across user-needs exploration, product positioning, MVP/MLP sco
 
 I am continuously strengthening the technical fluency needed to work effectively with AI and software teams.
 
-**Current foundations:** Python · SQL · Git · Linux · Go · HTTP · PostgreSQL · backend fundamentals · Docker · RAG · AI Agents · MCP · LangChain / LangGraph
+**Current foundations:** Python · SQL · Git · Linux · Go · HTTP · PostgreSQL · backend fundamentals · Docker · RabbitMQ · S3 / CloudFront · RAG · AI Agents · MCP · LangChain / LangGraph
 
-Selected public repositories:
+### Selected implementation evidence
 
 - [`chirpy`](https://github.com/Alan011337/chirpy) — Go HTTP API project with PostgreSQL, authentication, refresh tokens, webhooks, and API design.
 - [`build_an_ai_agent`](https://github.com/Alan011337/build_an_ai_agent) — Python tool-calling agent project using Gemini function calling to inspect files, read/write content, and run Python within a bounded working directory.
 - [`Build_a_Blog_Aggregator_in_Go`](https://github.com/Alan011337/Build_a_Blog_Aggregator_in_Go) — Go + PostgreSQL learning project for working with feeds, persistence, and CLI/backend concepts.
 - [`Build_a_Static_Site_Generator`](https://github.com/Alan011337/Build_a_Static_Site_Generator) — Python static-site generator learning project.
+
+### Recent backend-systems learning
+
+- [`learn-pub-sub-starter`](https://github.com/Alan011337/learn-pub-sub-starter) — Go + RabbitMQ course project exploring publish/subscribe, direct/topic exchanges, routing keys, and asynchronous messaging.
+- [`learn-file-storage-s3-golang-starter`](https://github.com/Alan011337/learn-file-storage-s3-golang-starter) — Go course project exploring file-serving architecture, S3 object storage, CloudFront/CDN concepts, media tooling, and AWS fundamentals.
 
 These repositories are **learning and implementation evidence**, not claims of production-scale engineering expertise.
 

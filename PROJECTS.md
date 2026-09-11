@@ -2,6 +2,16 @@
 
 This page is a curated map of my public technical work. It is designed to make the evidence easier to inspect without overstating the scope of learning projects.
 
+## 5-minute reviewer path
+
+If you only have a few minutes, use this order:
+
+1. [`chirpy`](https://github.com/Alan011337/chirpy) — inspect API structure, PostgreSQL persistence, authentication, refresh tokens, and webhooks.
+2. [`build_an_ai_agent`](https://github.com/Alan011337/build_an_ai_agent) — inspect tool calling, function dispatch, bounded execution, and agent-loop concepts.
+3. [Haven Product Portfolio](https://somber-tamarillo-df3.notion.site/Haven-AI-native-Product-Portfolio-3d8ad9856018811b96ffe8e33a7d48ef) — inspect how product ownership, requirements, QA, release-readiness, privacy, and safety connect to software and AI constraints.
+
+**Intended conclusion:** I have inspectable technical fluency that supports product work close to AI and software execution. **Do not infer:** senior engineering depth, production-scale infrastructure ownership, or that I hand-coded Haven end-to-end.
+
 ## Start here by hiring lens
 
 ### AI Product Manager
@@ -81,6 +91,15 @@ Go course project covering S3 object storage, CloudFront/CDN concepts, file serv
 | `Build_a_Static_Site_Generator` | Python structure / transformation pipeline | Can you structure and explain a software project? | Learning + implementation |
 | `learn-pub-sub-starter` | RabbitMQ / asynchronous messaging | Do you understand event-driven communication concepts? | Learning + implementation |
 | `learn-file-storage-s3-golang-starter` | S3 / CDN / file delivery | Can you discuss storage and delivery architecture at a foundational level? | Learning + implementation |
+
+## What to inspect — and what not to infer
+
+| Evidence | Reasonable inference | Do not infer |
+| --- | --- | --- |
+| Go API / PostgreSQL projects | familiarity with HTTP, persistence, auth, data flow, backend trade-offs | production ownership at scale |
+| AI-agent project | familiarity with function calling, tool schemas, dispatch, bounded execution | production agent-platform expertise |
+| RabbitMQ / S3 / CloudFront projects | foundational systems vocabulary and implementation exposure | distributed-systems or cloud-architecture expertise |
+| Haven + repositories together | ability to connect product requirements with technical constraints and QA | sole hand-coding of the entire Haven implementation |
 
 ## Supporting learning repositories
 

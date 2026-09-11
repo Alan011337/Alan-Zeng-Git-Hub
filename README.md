@@ -23,6 +23,16 @@ If you only have a few minutes, inspect these three artifacts:
 
 The intended signal is **technical fluency that is inspectable enough for product work close to AI and software execution**, not senior engineering depth.
 
+## Evidence hierarchy
+
+Use the evidence at the level that matches the hiring question:
+
+1. **Direct product evidence:** Haven — product problem definition, scope, flows, requirements, AI-assisted delivery, QA, release-readiness, privacy, and safety.
+2. **Inspectable implementation evidence:** selected GitHub repositories — APIs, persistence, authentication, agent tooling, messaging, storage, and data flow.
+3. **Learning provenance:** courses and credentials — useful context for how the technical fluency was built, but not a substitute for work evidence.
+
+If the question is "Can Alan own product decisions?" start with Haven. If the question is "Can Alan reason with engineers and AI systems?" use Haven plus the selected repositories. If the question is "Is Alan a senior production engineer?" this portfolio does **not** make that claim.
+
 ## Questions this portfolio is designed to help answer
 
 - Can I reason about APIs, persistence, authentication, asynchronous messaging, storage, and data flow beyond surface-level product terminology?

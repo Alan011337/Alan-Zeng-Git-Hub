@@ -1,6 +1,6 @@
 # Tzu-Yang Tseng (Alan)
 
-**AI Product Builder · aspiring AI Product Manager / Technical Product Manager**
+**AI Product Builder · Target roles: AI Product Manager / Technical Product Manager / Product Manager**
 
 I am an NCKU Economics graduate building **Haven**, an AI-native relationship product, from 0→1. My work focuses on turning ambiguous user problems into product decisions, flows, requirements, Acceptance Criteria, Test Cases, and testable software through AI-assisted development, QA, and iteration.
 

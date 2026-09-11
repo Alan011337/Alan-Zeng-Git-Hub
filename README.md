@@ -13,6 +13,16 @@ I am an NCKU Economics graduate building **Haven**, an AI-native relationship pr
 
 > If you are evaluating me for an AI Product / TPM role, start with **Haven**, then use the GitHub projects to inspect technical fluency. GitHub is supporting evidence, not the primary product-ownership proof.
 
+## 2-minute reviewer path
+
+If you only have a few minutes, inspect these three artifacts:
+
+1. [`chirpy`](https://github.com/Alan011337/chirpy) — Go HTTP API, PostgreSQL, authentication, refresh tokens, and webhooks.
+2. [`build_an_ai_agent`](https://github.com/Alan011337/build_an_ai_agent) — Python tool-calling agent with function dispatch and bounded execution.
+3. [Haven Product Portfolio](https://somber-tamarillo-df3.notion.site/Haven-AI-native-Product-Portfolio-3d8ad9856018811b96ffe8e33a7d48ef) — product ownership, requirements, AI-assisted delivery, QA, release-readiness, privacy, and safety.
+
+The intended signal is **technical fluency that is inspectable enough for product work close to AI and software execution**, not senior engineering depth.
+
 ## What I am working on
 
 ### Haven — AI-native Relationship Product

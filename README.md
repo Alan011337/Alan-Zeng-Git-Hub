@@ -118,10 +118,8 @@ What this portfolio does **not** prove yet is mature software-team delivery insi
 
 ## Contact
 
-- LinkedIn: https://www.linkedin.com/in/tzu-yang-tseng-947052212/
-- Blog: https://insightfulreading.com/
-- Email: alanzeng705@gmail.com
+- **LinkedIn:** https://www.linkedin.com/in/tzu-yang-tseng-947052212/
+- **Email:** alanzeng705@gmail.com
+- **Writing:** https://insightfulreading.com/
 
----
-
-I am primarily interested in roles at the intersection of **users, product, AI, and technical execution**.
+> Recruiter shortcut: start with the [Haven Product Portfolio](https://somber-tamarillo-df3.notion.site/Haven-AI-native-Product-Portfolio-3d8ad9856018811b96ffe8e33a7d48ef) for product ownership, then use the [Technical Project Map](./PROJECTS.md) for implementation fluency.

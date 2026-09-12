@@ -91,6 +91,20 @@ Beyond software learning, my work includes:
 4. Use AI-assisted development to shorten the distance from idea to testable software.
 5. Review evidence, feedback, failures, and trade-offs to decide the next iteration.
 
+## Where I fit in a team
+
+I am strongest where a team needs someone to reduce ambiguity between **users, product intent, AI behavior, and technical execution**.
+
+I can contribute by:
+
+- turning fuzzy problems into scoped product decisions and executable requirements;
+- making ownership, Acceptance Criteria, Test Cases, edge cases, and release risks explicit;
+- discussing APIs, persistence, authentication, agents, messaging, storage, and failure modes precisely enough to improve product-engineering decisions;
+- using AI-assisted development to create or inspect testable implementation artifacts quickly;
+- translating implementation constraints back into product trade-offs, QA priorities, and user-facing risk.
+
+What this portfolio does **not** prove yet is mature software-team delivery inside a large production organization. I treat that as a real evidence gap rather than hiding it behind technical vocabulary.
+
 ## Learning
 
 - Harvard CS50x, CS50P

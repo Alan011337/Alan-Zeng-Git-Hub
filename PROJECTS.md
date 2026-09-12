@@ -12,6 +12,21 @@ If you only have a few minutes, use this order:
 
 **Intended conclusion:** I have inspectable technical fluency that supports product work close to AI and software execution. **Do not infer:** senior engineering depth, production-scale infrastructure ownership, or that I hand-coded Haven end-to-end.
 
+## Complementary proof map
+
+The selected repositories are intentionally complementary rather than a technology-count portfolio. Each one should answer a different technical product question:
+
+| Evidence surface | Primary reasoning surface | Product / TPM question it helps answer |
+| --- | --- | --- |
+| [`Alan-Zeng-Git-Hub`](https://github.com/Alan011337/Alan-Zeng-Git-Hub) | navigation + evidence boundaries | Can the reviewer quickly distinguish product evidence, implementation evidence, and learning provenance? |
+| [`chirpy`](https://github.com/Alan011337/chirpy) | API · auth · persistence · webhooks | Can I reason about request flows, state, authorization, and backend-facing product constraints? |
+| [`build_an_ai_agent`](https://github.com/Alan011337/build_an_ai_agent) | tool calling · bounded execution · failure-aware agent loops | Can I reason about AI systems as tools, boundaries, orchestration, and failure modes rather than only prompts? |
+| [`Build_a_Blog_Aggregator_in_Go`](https://github.com/Alan011337/Build_a_Blog_Aggregator_in_Go) | ingestion · PostgreSQL · background state | Can I reason about persistent state and recurring ingestion work beyond a single request/response? |
+| [`learn-pub-sub-starter`](https://github.com/Alan011337/learn-pub-sub-starter) | asynchronous messaging · routing · consumers | Can I reason about decoupling, event flow, delivery risk, retries, and idempotency requirements? |
+| [`learn-file-storage-s3-golang-starter`](https://github.com/Alan011337/learn-file-storage-s3-golang-starter) | object storage · media lifecycle · CDN delivery | Can I reason about metadata, file bytes, processing, permissions, caching, and lifecycle consistency? |
+
+The point is **coverage of distinct reasoning surfaces**, not breadth for its own sake. If a repository does not add a new hiring-relevant question or stronger evidence, it should not be promoted into the default reviewer path.
+
 ## Start here by hiring lens
 
 ### AI Product Manager

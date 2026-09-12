@@ -28,7 +28,7 @@ The intended signal is **technical fluency that is inspectable enough for produc
 Use the evidence at the level that matches the hiring question:
 
 1. **Direct product evidence:** Haven — product problem definition, scope, flows, requirements, AI-assisted delivery, QA, release-readiness, privacy, and safety.
-2. **Inspectable implementation evidence:** selected GitHub repositories — APIs, persistence, authentication, agent tooling, messaging, storage, and data flow.
+2. **Inspectable implementation evidence:** selected GitHub repositories — APIs, persistence, authentication, agent tooling, ingestion, transformation pipelines, messaging, storage, and data flow.
 3. **Learning provenance:** courses and credentials — useful context for how the technical fluency was built, but not a substitute for work evidence.
 
 If the question is "Can Alan own product decisions?" start with Haven. If the question is "Can Alan reason with engineers and AI systems?" use Haven plus the selected repositories. If the question is "Is Alan a senior production engineer?" this portfolio does **not** make that claim.
@@ -53,17 +53,21 @@ I currently work across user-needs exploration, product positioning, MVP / MLP s
 
 ## Selected implementation evidence
 
-These five implementation repositories are the preferred public proof set because each adds a distinct reviewer question. The hub itself is the sixth recommended profile pin.
+For the GitHub profile itself, I prefer **fewer stronger first-screen proofs** over filling every pin slot. The default pin set should prioritize independently owned repositories with clear reviewer value; forked course repositories remain available in the technical map as supporting systems evidence.
 
 | Project | Signal | Useful for evaluating |
 | --- | --- | --- |
+| [`Alan-Zeng-Git-Hub`](https://github.com/Alan011337/Alan-Zeng-Git-Hub) | navigation · evidence boundaries | product vs. implementation vs. learning provenance |
 | [`chirpy`](https://github.com/Alan011337/chirpy) | Go API · PostgreSQL · auth · webhooks | backend/API constraints, persistence, request flows |
 | [`build_an_ai_agent`](https://github.com/Alan011337/build_an_ai_agent) | Python · function calling · tool dispatch | agent loops, tool schemas, bounded execution |
 | [`Build_a_Blog_Aggregator_in_Go`](https://github.com/Alan011337/Build_a_Blog_Aggregator_in_Go) | Go · PostgreSQL · RSS ingestion | persistence, state, recurring ingestion |
-| [`learn-pub-sub-starter`](https://github.com/Alan011337/learn-pub-sub-starter) | Go · RabbitMQ | asynchronous messaging, routing, delivery-risk reasoning |
-| [`learn-file-storage-s3-golang-starter`](https://github.com/Alan011337/learn-file-storage-s3-golang-starter) | Go · S3 · CloudFront | file lifecycle, storage, permissions, caching, delivery |
+| [`Build_a_Static_Site_Generator`](https://github.com/Alan011337/Build_a_Static_Site_Generator) | Python · transformation pipeline · tests | source-of-truth, derived artifacts, repeatable builds, failure localization |
 
-Supporting projects such as [`Build_a_Static_Site_Generator`](https://github.com/Alan011337/Build_a_Static_Site_Generator) remain useful learning evidence, but they are intentionally not promoted into the default six-pin reviewer path when a systems-oriented repository answers a more distinct hiring question.
+Supporting systems evidence:
+- [`learn-pub-sub-starter`](https://github.com/Alan011337/learn-pub-sub-starter) — Go + RabbitMQ; useful for asynchronous messaging, routing, delivery-risk and idempotency discussion.
+- [`learn-file-storage-s3-golang-starter`](https://github.com/Alan011337/learn-file-storage-s3-golang-starter) — Go + S3 + CloudFront; useful for storage, media lifecycle, permissions, caching and delivery discussion.
+
+Those two repositories are explicit learning-course forks, so I keep them inspectable without relying on them as default first-screen proof.
 
 These repositories are **learning and implementation evidence**, not claims of production-scale engineering expertise.
 

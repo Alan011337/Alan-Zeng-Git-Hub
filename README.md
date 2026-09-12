@@ -45,7 +45,7 @@ If the hiring question is primarily about **product ownership, user discovery, p
 ## What I am working on
 
 ### Haven — AI-native Relationship Product
-I currently work across user-needs exploration, product positioning, MVP / MLP scoping, prioritization, User Flow, information architecture, requirement decomposition, AI Coding Agent collaboration, functional validation, regression testing, privacy / safety, and Alpha readiness.
+I currently work across user-needs exploration, product positioning, MVP / MLP scoping, prioritization, User Flow, information architecture, requirement decomposition, AI Coding Agent direction, functional validation, regression testing, privacy / safety, and Alpha readiness.
 
 - Current stage: **invite-only Alpha**
 - Product portfolio: [Haven — AI-native Product Portfolio](https://somber-tamarillo-df3.notion.site/Haven-AI-native-Product-Portfolio-3d8ad9856018811b96ffe8e33a7d48ef)
@@ -53,14 +53,17 @@ I currently work across user-needs exploration, product positioning, MVP / MLP s
 
 ## Selected implementation evidence
 
+These five implementation repositories are the preferred public proof set because each adds a distinct reviewer question. The hub itself is the sixth recommended profile pin.
+
 | Project | Signal | Useful for evaluating |
 | --- | --- | --- |
 | [`chirpy`](https://github.com/Alan011337/chirpy) | Go API · PostgreSQL · auth · webhooks | backend/API constraints, persistence, request flows |
 | [`build_an_ai_agent`](https://github.com/Alan011337/build_an_ai_agent) | Python · function calling · tool dispatch | agent loops, tool schemas, bounded execution |
-| [`Build_a_Blog_Aggregator_in_Go`](https://github.com/Alan011337/Build_a_Blog_Aggregator_in_Go) | Go · PostgreSQL · RSS ingestion | persistence, state, CLI/backend concepts |
-| [`Build_a_Static_Site_Generator`](https://github.com/Alan011337/Build_a_Static_Site_Generator) | Python · transformation pipeline | program structure, data/content flow |
-| [`learn-pub-sub-starter`](https://github.com/Alan011337/learn-pub-sub-starter) | Go · RabbitMQ | asynchronous messaging fundamentals |
-| [`learn-file-storage-s3-golang-starter`](https://github.com/Alan011337/learn-file-storage-s3-golang-starter) | Go · S3 · CloudFront | file-storage and delivery fundamentals |
+| [`Build_a_Blog_Aggregator_in_Go`](https://github.com/Alan011337/Build_a_Blog_Aggregator_in_Go) | Go · PostgreSQL · RSS ingestion | persistence, state, recurring ingestion |
+| [`learn-pub-sub-starter`](https://github.com/Alan011337/learn-pub-sub-starter) | Go · RabbitMQ | asynchronous messaging, routing, delivery-risk reasoning |
+| [`learn-file-storage-s3-golang-starter`](https://github.com/Alan011337/learn-file-storage-s3-golang-starter) | Go · S3 · CloudFront | file lifecycle, storage, permissions, caching, delivery |
+
+Supporting projects such as [`Build_a_Static_Site_Generator`](https://github.com/Alan011337/Build_a_Static_Site_Generator) remain useful learning evidence, but they are intentionally not promoted into the default six-pin reviewer path when a systems-oriented repository answers a more distinct hiring question.
 
 These repositories are **learning and implementation evidence**, not claims of production-scale engineering expertise.
 
@@ -110,7 +113,7 @@ What this portfolio does **not** prove yet is mature software-team delivery insi
 - Harvard CS50x, CS50P
 - freeCodeCamp Python Developer & Relational Database Developer Certifications
 - IBM RAG and Agentic AI series: RAG, vector databases, AI Agents, MCP, LangChain, LangGraph, CrewAI, AutoGen, BeeAI, multimodal generative AI
-- Boot.dev coursework/projects across Python, Go, HTTP, SQL, Git, Linux, Docker, C memory management, backend development, RabbitMQ Pub/Sub, and S3 / CloudFront
+- Boot.dev coursework/projects across Python, Go, HTTP, SQL, Git, Linux, Docker, C memory management, AI Agent, backend development, RabbitMQ Pub/Sub, and S3 / CloudFront
 - University of Colorado Boulder: Essential Linear Algebra for Data Science; Algorithms for Searching, Sorting, and Indexing
 
 ## Contact

@@ -46,9 +46,9 @@ Recommended path:
 
 ### Product / technical generalist
 Recommended path:
-1. [`build_an_ai_agent`](https://github.com/Alan011337/build_an_ai_agent)
-2. [`chirpy`](https://github.com/Alan011337/chirpy)
-3. [`Build_a_Static_Site_Generator`](https://github.com/Alan011337/Build_a_Static_Site_Generator)
+1. [`build_an_ai_agent`](https://github.com/Alan011337/build_an_ai_agent) — AI/tool orchestration.
+2. [`chirpy`](https://github.com/Alan011337/chirpy) — API/auth/persistence.
+3. [`Build_a_Blog_Aggregator_in_Go`](https://github.com/Alan011337/Build_a_Blog_Aggregator_in_Go) — ingestion/state/background work.
 
 The goal is not to inspect every repository. It is to see enough implementation evidence to judge whether I can reason clearly about technical constraints, interfaces, data flow, and trade-offs.
 
@@ -73,28 +73,29 @@ Use this repository when evaluating my understanding of agent loops, tool schema
 ---
 
 ### [`Build_a_Blog_Aggregator_in_Go`](https://github.com/Alan011337/Build_a_Blog_Aggregator_in_Go)
-**Signal:** Go + PostgreSQL + CLI/backend learning
+**Signal:** ingestion, persistence, and recurring backend state
 
-Learning project centered on feed aggregation, persistence, database interaction, and backend/CLI concepts.
+Go + PostgreSQL learning project centered on feed aggregation, persisted user/feed/post state, database interaction, and recurring ingestion workflows.
+
+Use this repository when evaluating my ability to reason about durable state, external data, background work, freshness, and failure boundaries.
 
 ---
-
-### [`Build_a_Static_Site_Generator`](https://github.com/Alan011337/Build_a_Static_Site_Generator)
-**Signal:** Python program structure and content-transformation pipeline
-
-Learning project that converts structured source content into generated static pages.
-
-## Recent backend-systems learning
 
 ### [`learn-pub-sub-starter`](https://github.com/Alan011337/learn-pub-sub-starter)
 **Signal:** asynchronous messaging concepts
 
 Go + RabbitMQ course project covering publish/subscribe, direct/topic exchanges, routing keys, client/server structure, and event-driven communication.
 
+Use this repository when evaluating my ability to discuss decoupling, asynchronous delivery, routing, retry/idempotency requirements, and failure propagation at a foundational level.
+
+---
+
 ### [`learn-file-storage-s3-golang-starter`](https://github.com/Alan011337/learn-file-storage-s3-golang-starter)
 **Signal:** file-delivery and cloud-storage architecture concepts
 
 Go course project covering S3 object storage, CloudFront/CDN concepts, file serving, FFmpeg/FFprobe, SQLite, and AWS tooling.
+
+Use this repository when evaluating my ability to reason about metadata versus file bytes, storage lifecycle, permissions, caching, delivery, and product-facing media constraints.
 
 ## Evidence matrix
 
@@ -102,8 +103,7 @@ Go course project covering S3 object storage, CloudFront/CDN concepts, file serv
 | --- | --- | --- | --- |
 | `chirpy` | API / backend / auth / persistence | Can you reason about backend product constraints? | Learning + implementation |
 | `build_an_ai_agent` | tool calling / agent loop / bounded execution | Do you understand AI-agent workflows beyond prompting? | Learning + implementation |
-| `Build_a_Blog_Aggregator_in_Go` | Go / PostgreSQL / ingestion / state | Can you discuss persistence and backend state? | Learning + implementation |
-| `Build_a_Static_Site_Generator` | Python structure / transformation pipeline | Can you structure and explain a software project? | Learning + implementation |
+| `Build_a_Blog_Aggregator_in_Go` | Go / PostgreSQL / ingestion / state | Can you discuss persistence and recurring backend state? | Learning + implementation |
 | `learn-pub-sub-starter` | RabbitMQ / asynchronous messaging | Do you understand event-driven communication concepts? | Learning + implementation |
 | `learn-file-storage-s3-golang-starter` | S3 / CDN / file delivery | Can you discuss storage and delivery architecture at a foundational level? | Learning + implementation |
 
@@ -118,7 +118,7 @@ Go course project covering S3 object storage, CloudFront/CDN concepts, file serv
 
 ## Supporting learning repositories
 
-Other repositories on this account include projects from freeCodeCamp, Boot.dev, Full Stack Open, and other computer-science learning tracks. They are intentionally not presented as equivalent to production engineering experience.
+Supporting projects such as [`Build_a_Static_Site_Generator`](https://github.com/Alan011337/Build_a_Static_Site_Generator), plus other freeCodeCamp, Boot.dev, Full Stack Open, and computer-science learning repositories, remain useful evidence of learning and implementation practice. They are intentionally not promoted into the default reviewer path when another repository answers a more distinct hiring-relevant question.
 
 ## How to interpret this portfolio
 

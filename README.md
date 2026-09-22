@@ -45,11 +45,12 @@ If the hiring question is primarily about **product ownership, user discovery, p
 ## What I am working on
 
 ### Haven — AI-native Relationship Product
-I currently work across user-needs exploration, product positioning, MVP / MLP scoping, prioritization, User Flow, information architecture, requirement decomposition, AI Coding Agent direction, functional validation, regression testing, privacy / safety, and Alpha readiness.
+I currently work across user-needs exploration, product positioning, MVP / MLP scoping, prioritization, User Flow, information architecture, requirement decomposition, AI Coding Agent direction, functional validation, regression testing, privacy / safety, and release-readiness.
 
-- Current stage: **invite-only Alpha**
+- Current canonical stage: **MVP · Validating**
 - Product portfolio: [Haven — AI-native Product Portfolio](https://somber-tamarillo-df3.notion.site/Haven-AI-native-Product-Portfolio-3d8ad9856018811b96ffe8e33a7d48ef)
-- Evidence boundary: no PMF, efficacy, or large-scale adoption claim.
+- Release / broader real-user exposure remains gated pending Founder QA closure.
+- Evidence boundary: no PMF, efficacy, validated relationship outcome, or large-scale adoption claim.
 
 ## Selected implementation evidence
 
